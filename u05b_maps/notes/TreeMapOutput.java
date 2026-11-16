@@ -1,4 +1,4 @@
-//� A+ Computer Science
+//Â© A+ Computer Science
 // www.apluscompsci.com
 
 //printing out a map with basic iterator loop
@@ -39,3 +39,4 @@ public class TreeMapOutput
       System.out.println(map);
 	}
 }
+

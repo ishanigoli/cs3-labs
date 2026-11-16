@@ -1,4 +1,4 @@
-//� A+ Computer Science
+//Â© A+ Computer Science
 // www.apluscompsci.com
 
 //map put example 1
@@ -42,3 +42,4 @@ public class TreeMapPutOne
 		*/
 	}
 }
+

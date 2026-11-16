@@ -1,4 +1,4 @@
-//� A+ Computer Science
+//Â© A+ Computer Science
 // www.apluscompsci.com
 
 //map put example 1
@@ -16,7 +16,7 @@ public class TreeMapPutOne_Sol
 		String s = "dogcatchickenpigtreecartruckbeeflea";
 		for(char c : s.toCharArray())
 		{
-			if(map.get(c)==null)
+			if(!map.containsKey(c))
 			{
 				map.put(c,1);
 			}
@@ -35,3 +35,4 @@ public class TreeMapPutOne_Sol
 		System.out.println(map.get('e'));
 	}
 }
+

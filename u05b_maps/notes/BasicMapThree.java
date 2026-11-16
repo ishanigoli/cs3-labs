@@ -1,4 +1,4 @@
-//� A+ Computer Science
+//Â© A+ Computer Science
 // www.apluscompsci.com
 
 //basic map example 3
@@ -25,3 +25,4 @@ public class BasicMapThree
 		System.out.println(map.get(7));
 	}
 }
+

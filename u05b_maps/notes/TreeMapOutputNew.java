@@ -1,4 +1,4 @@
-//� A+ Computer Science
+//Â© A+ Computer Science
 // www.apluscompsci.com
 
 //printing out a map with the new for loop
@@ -33,3 +33,4 @@ public class TreeMapOutputNew
 		}
 	}
 }
+

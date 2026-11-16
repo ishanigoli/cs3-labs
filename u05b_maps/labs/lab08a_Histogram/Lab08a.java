@@ -1,4 +1,4 @@
-//� A+ Computer Science  -  www.apluscompsci.com
+//Â© A+ Computer Science  -  www.apluscompsci.com
 //Name -
 //Date -
 //Class -
@@ -11,15 +11,17 @@ import static java.lang.System.*;
 
 public class Lab08a
 {
-	public static void main( String args[] ) throws IOException
-	{
-		//add test cases
-		
-		
-		
-		
-		
-		
-		
-	}
+ public static void main( String args[] ) throws IOException
+ {
+   //add test cases
+   Histogram test = new Histogram("a b c d e f g h i a c d e g h i h k");
+   out.println(test);
+
+
+   Histogram test1 = new Histogram("1 2 3 4 5 6 1 2 3 4 5 1 3 1 2 3 4");
+   out.println(test1);
+
+
+  
+ }
 }
