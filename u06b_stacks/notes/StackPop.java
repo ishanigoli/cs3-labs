@@ -1,4 +1,4 @@
-//� A+ Computer Science
+//Â© A+ Computer Science
 // www.apluscompsci.com
 
 //stack pop example
@@ -20,3 +20,5 @@ public class StackPop
 		out.println("stack after pop :: "+s);
 	}
 }
+
+

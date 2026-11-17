@@ -19,3 +19,4 @@ public class MathNotationsRunner {
     System.out.printf("%22s <=> %s%n", exp, MathNotations.infixToPostfix(exp)); 
   } 
 } 
+

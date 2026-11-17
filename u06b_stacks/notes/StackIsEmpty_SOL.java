@@ -1,4 +1,4 @@
-//� A+ Computer Science
+//Â© A+ Computer Science
 // www.apluscompsci.com
 
 //Stack example isEmpty
@@ -25,3 +25,4 @@ public class StackIsEmpty_SOL
 		}
 	}
 }
+

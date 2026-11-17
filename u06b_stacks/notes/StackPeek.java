@@ -1,4 +1,4 @@
-//� A+ Computer Science
+//Â© A+ Computer Science
 // www.apluscompsci.com
 
 //stack peek example
@@ -20,3 +20,5 @@ public class StackPeek
 		out.println("stack after peek :: "+s);
 	}
 }
+
+

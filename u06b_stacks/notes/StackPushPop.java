@@ -1,4 +1,4 @@
-//� A+ Computer Science
+//Â© A+ Computer Science
 // www.apluscompsci.com
 
 //stack push and pop example
@@ -21,3 +21,5 @@ public class StackPushPop
 		//print out the stack
 	}
 }
+
+

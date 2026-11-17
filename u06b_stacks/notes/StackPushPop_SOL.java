@@ -1,4 +1,4 @@
-//� A+ Computer Science
+//Â© A+ Computer Science
 // www.apluscompsci.com
 
 //stack push and pop example
@@ -23,3 +23,5 @@ public class StackPushPop_SOL
 		out.println("stack after 2 pops :: "+s);
 	}
 }
+
+

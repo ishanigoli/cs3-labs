@@ -1,4 +1,4 @@
-//� A+ Computer Science
+//Â© A+ Computer Science
 // www.apluscompsci.com
 
 //stack push example
@@ -18,3 +18,5 @@ public class StackPush
 		out.println(s);
 	}
 }
+
+
