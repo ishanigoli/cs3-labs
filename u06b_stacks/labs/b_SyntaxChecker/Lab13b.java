@@ -9,9 +9,10 @@ import static java.lang.System.*;
 
 public class Lab13b
 {
-	public static void main ( String[] args )
-	{
-		//add test cases		
-	}
+ public static void main ( String[] args )
+ {
+   //add test cases   
+   SyntaxChecker test = new SyntaxChecker("(abc(*def)");
+   out.println(test);
+ }
 }
-
